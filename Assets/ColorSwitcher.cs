@@ -6,4 +6,6 @@ public class ColorSwitcher : MonoBehaviour
 {
     public string colorName;
     public Color color;
+
+    
 }
